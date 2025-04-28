@@ -4,7 +4,7 @@ import logging
 import random
 
 # Seu token do BotFather aqui
-TOKEN = 7934330924:AAF6xHyuus2I5lJcjKgUFK7mlISUoxXIQJg
+TOKEN = "7934330924:AAF6xHyuus2I5lJcjKgUFK7mlISUoxXIQJg"
 
 # Configuração de logging (opcional)
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
